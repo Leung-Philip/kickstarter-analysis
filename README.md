@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends
 ---
 ## Recommendations
 Set realistics goals that can be achieved. 
-Corelation between June and goals being met. 
+Correlation between June and goals being met. 
 ---
 ### Commit message
 Committing edits to the README file
